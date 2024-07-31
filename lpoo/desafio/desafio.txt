@@ -1,0 +1,42 @@
+// ## Desafio POO
+
+// Você foi contratado para desenvolver um sistema de supermercado que aborde os 4 pilares principais da Programação Orientada a Objetos (POO): abstração, encapsulamento, herança e polimorfismo.
+
+// O sistema deverá gerenciar um estoque de produtos:
+
+// - alimentos
+// - bebidas
+
+// Deverá ainda e permitir operações :
+
+// - adicionar
+// - remover
+// - listar produtos
+
+
+// ### Classe base - Produto:
+
+// - Nome
+// - #Preço (privado)
+// - Data de Validade
+// - Exibir informações
+// get preço e set preço
+
+// ### Classe derivada - Alimento:
+
+// - Tipo de Alimento (perecível ou não perecível)
+// - Peso
+// exibir informacoes
+
+// ### Classe derivada - Bebida:
+
+// - Tipo de Bebida (alcoólica ou não alcoólica)
+// - Volume
+// exibir informacoes
+
+
+
+// Crie um arquivo desafio.js e implemente o sistema de supermercado conforme as especificações acima.
+
+
+   
